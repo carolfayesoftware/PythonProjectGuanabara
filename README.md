@@ -1,1 +1,1 @@
-Projeto de Adivinhação de um numero baseado num dos exercicios do Professor Guanabara em suas aulas de Python. Planejo aprimorar ele com meus aprendizados.
+Exercicios resolvidos do curso de Python do professor Guanabara.
